@@ -1,0 +1,22 @@
+h1 {
+    margin: auto;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+  }
+  body {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+  }
+  div img { 
+    display: inline-block;
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 175px;
+}
+  
